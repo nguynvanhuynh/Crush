@@ -18,3 +18,4 @@ const CONFIG = {
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://facebook.com/dinhkaito' //link messhttps://www.facebook.com/share/1G1DZhE3YP/?mibextid=qi2Omg của các bạn. VD: /dinhkaito
 }
+r
